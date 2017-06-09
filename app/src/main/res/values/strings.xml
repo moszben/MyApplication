@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Alive</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="confirmpass">Confirmer password</string>
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="name">Nom</string>
+    <string name="fname">Prénom</string>
+    <string name="etape1">Informations personnelles</string>
+    <string name="etape2">Informations du capteur</string>
+    <string name="ref">Référence</string>
+    <string name="saved">vous êtes enregistrés!</string>
+    <string name="home">Acceuil</string>
+
+    <string-array name="models">
+        <item>Model 1</item>
+        <item>Model 2</item>
+        <item>Model 3</item>
+        <item>Model 4</item>
+        <item>Model 5</item>
+    </string-array>
+
+    <string name="action_example">Example action</string>
+    <string name="ok">OK</string>
+    <string name="clear">Clear</string>
+    <string name="userEmpty">username obligatoire</string>
+    <string name="passEmpty">password obligatoire</string>
+    <string name="wait">Attendre SVP!</string>
+    <string name="noCnx">pas de connection</string>
+    <string name="clientExist">Client deja inscrit</string>
+    <string name="infosError">Informations incorrectes</string>
+    <string name="passDiff">passwords ne sont pas identiques</string>
+</resources>
